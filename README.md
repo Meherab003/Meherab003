@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meherab003
-- 👀 I’m interested in AI learning with Python (beginner)
-- 🌱 I’m currently learning Python &  Java
+- 👀 I’m interested in Web development & AI learning with Python (beginner)
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 - 🎓 I'm currently studying at Cumilla Polytechnic Institute.
 - 📫 How to reach me :) 
 - 🟦 FaceBook : https://www.facebook.com/meherab2003
