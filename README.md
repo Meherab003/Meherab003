@@ -1,45 +1,42 @@
-<h1 align="center">Hi 👋, I'm Meherab Hossain Bhuiyan</h1>
-<h3 align="center">A passionate MERN stack full stack web development learner from Bangladesh</h3>
+<img src="Header.png" alt="Banner" style="width:100%;"/>
+<h2 align="left">Hi 👋, I'm Meherab Hossain Bhuiyan</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meherab003&label=Profile%20views&color=0e75b6&style=flat" alt="meherab003" /> </p>
 
-<p align="left"> <a href="https://twitter.com/meherab_03" target="blank"><img src="https://img.shields.io/twitter/follow/meherab_03?logo=twitter&style=for-the-badge" alt="meherab_03" /></a> </p>
+### 💫 About Me:
+I'm a passionate full-stack web developer from Bangladesh 🇧🇩, currently working with the MERN stack (MongoDB, Express.js, React.js, and Node.js). I'm also a computer science and technology student, always exploring new technologies and building real-world projects.
 
-- 🔭 I’m currently working on **Front-End Web development**
+```
+🎓 Education
 
-- 🌱 I’m currently learning **React, Google firebase.**
+✨Secondary School Certificate  
+    Institute: IBN Taimiya School & College  
+    Subject: Science 
 
-- 💬 Ask me about **Tailwind, React**
+✨Diploma In Engineering  
+    Institute: Cumilla Polytechnic Institute  
+    Subject: Computer Science And Technology
+```
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1UpzEa9OAE6HMuWuhr9AZgo77bqWArBa-/view?usp=sharing)
 
-- 📫 How to reach me **meherabminhaz2020@gmail.com**
+---
+### 🌐 Connect With Me:
+#### Email Me: <p align="left"><a href="mailto:meherabminhaz2020@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Meherab-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/> </a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/meherab_03" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="meherab_03" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/meherab03" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="meherab03" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/meherab-hossain-bhuiyan" target="blank"><img align="center" src="stackoverflow.png" alt="meherab-hossain-bhuiyan" height="30" width="30" /></a>
-<a href="https://fb.com/meherab2003" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/facebook-logo-black-2019.png" alt="meherab2003" height="30" width="30" /></a>
-<a href="https://instagram.com/meherab03" target="blank"><img align="center" src="instagram.png" alt="meherab03" height="30" width="30" /></a>
-<a href="https://medium.com/@meherabminhaz2020" target="blank"><img align="center" src="medium.png" alt="@meherabminhaz2020" height="30" width="30" /></a>
-</p>
+#### Social Media:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/meherab2003) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meherab03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meherab03) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@meherabminhaz2020) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/GreamyBlade) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20409035) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/meherab_03) 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="html-5.png" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="css-3.png" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="js.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="tailwindcss.png" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="reactjs.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="firebase.png" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="nodejs.png" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="expressjs.png" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="mongodb.png" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="nextjs.png" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="figma.png" alt="figma" width="40" height="40"/> </a> 
-</p>
+---
+### 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Meherab003&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Meherab003&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meherab003&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meherab003&show_icons=true&locale=en&layout=compact" alt="meherab003" /></p>
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Meherab003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meherab003&show_icons=true&locale=en" alt="meherab003" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Meherab003&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meherab003&" alt="meherab003" /></p>
+<img src="Footer.png" alt="Banner" style="width:100%;"/>
